@@ -1,3 +1,6 @@
+Link to Youtube video showing project- https://youtu.be/rPLqiL99Xe0
+
+
 Apple Analytics Dashboard
 An analytics dashboard for "Apple Inc.", built with HTML, CSS, JavaScript, Chart.js, and Bootstrap. It visualizes synthetic corporate metrics using five unique charts, designed for a corporate setting with a clean, Apple-inspired UI.
 Project Overview
